@@ -1,9 +1,0 @@
-/Users/wangcong.qinggniq/git/h2c-golang-example/cmd/rust_client/target/release/deps/libfutures_macro-eccb43570f842c07.dylib: /Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/lib.rs /Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/executor.rs /Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/join.rs /Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/select.rs /Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/stream_select.rs
-
-/Users/wangcong.qinggniq/git/h2c-golang-example/cmd/rust_client/target/release/deps/futures_macro-eccb43570f842c07.d: /Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/lib.rs /Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/executor.rs /Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/join.rs /Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/select.rs /Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/stream_select.rs
-
-/Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/lib.rs:
-/Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/executor.rs:
-/Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/join.rs:
-/Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/select.rs:
-/Users/wangcong.qinggniq/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/futures-macro-0.3.21/src/stream_select.rs:
